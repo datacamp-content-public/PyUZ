@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -13,27 +15,17 @@ skills: 2
 key: a912e29730
 ```
 
+ a va b butun solar berilgan
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
