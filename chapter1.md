@@ -23,8 +23,15 @@ key: a912e29730
 `@hint`
 
 
-
-
+`@pre_exercise_code`
+```{python}
+x = 10
+```
+`@sample_code`
+```{python}
+a = 3
+b = 7
+```
 
 
 
